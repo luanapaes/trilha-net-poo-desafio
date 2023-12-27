@@ -11,7 +11,7 @@ i.Ligar();
 i.ReceberLigacao();
 i.InstalarAplicativo("WhatsApp");
 
-Console.WriteLine("--------------------------------------");
+Console.WriteLine("\n");
 
 //Nokia
 Console.WriteLine("--- Nokia ---");
